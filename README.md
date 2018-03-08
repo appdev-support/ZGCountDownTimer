@@ -1,12 +1,12 @@
-ZGCountDownTimer
+ZGC Timer
 ================
 
  Background Proof, Termination Proof Timer, Reboot Proof Timer.
 
 
-[ZGCountDownTimer][] is powered by `NSTimer` to work as a full CountDown Timer.
+[ZGC Timer][] is powered by `NSTimer` to work as a full CountDown Timer.
 
-The best thing about [ZGCountDownTimer][] is that it work acrross **Background App**, **Background Termination** and even **Device Rebbot**.
+The best thing about [ZGC Timer][] is that it work acrross **Background App**, **Background Termination** and even **Device Rebbot**.
 
 
 ###Usage
@@ -42,16 +42,10 @@ Also, there is two help method to help you get the awesome `NSString` with or wi
 
 For more detail please see the damo app, or read the docs in the .h file.    
 Enjoy.
-
-###Contact
-
-[Twitter](http://twitter.com/F_ZG)    
-[Email](zhigang1992@gmail.com)    
-[AppNet](https://alpha.app.net/zhigang1992)    
+    
 
 ###LICENSE (MIT)
 
-Copyright (C) 2012 by Kyle Fang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -62,4 +56,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-[ZGCountDownTimer]: https://github.com/zhigang1992/ZGCountDownTimer/new/master?readme=1
